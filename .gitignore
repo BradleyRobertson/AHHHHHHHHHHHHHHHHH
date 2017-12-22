@@ -1,0 +1,4 @@
+####################### we can ignore shite and not push
+
+.DS_Store
+node_modules
